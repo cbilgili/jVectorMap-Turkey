@@ -17,3 +17,10 @@ $('#world-map').vectorMap(
   map: 'turkey_1_mill_en'
 });
 ```
+
+Diğer alternatifleri;
+https://github.com/aytacsunar/turkey-map-jquery-with-jqvmap
+
+Canbey Bilgili
+http://www.emanova.com
+http://www.xanbei.com
