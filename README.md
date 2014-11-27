@@ -2,6 +2,7 @@ jVectorMap-Turkey
 =================
 
 jVectorMap Türkiye Haritası Eklentisi / jVectorMap Turkey Map Plugin
+#Javascript, #jQuery
 
 jVectorMap Sayfası:
 http://jvectormap.com
